@@ -1,6 +1,6 @@
 // Iteration 1: Names and Input
-//
-// Iteration 2: Conditionals
+console.log("Im ready");
 
+// Iteration 2: Conditionals
 
 // Iteration 3: Loops
